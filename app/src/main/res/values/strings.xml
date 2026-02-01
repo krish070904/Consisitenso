@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsistEso</string>
+    <string name="accessibility_service_description">Monitors and controls app access based on your consistency rules. Required for app blocking and boring mode enforcement.</string>
+</resources>
